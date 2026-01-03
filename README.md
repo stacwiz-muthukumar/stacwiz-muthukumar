@@ -45,5 +45,4 @@ A business-focused inventory solution built using MERN stack.
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn (add link)
-- 🌐 Portfolio (optional)
+- 💼 LinkedIn www.linkedin.com/in/muthu-kumar-salesforce-devloper
