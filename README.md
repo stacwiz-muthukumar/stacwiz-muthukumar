@@ -27,14 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stacwiz-muthukumar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stacwiz-muthukumar&theme=tokyonight&hide_border=true)
-
----
-
 ### 🚀 Featured Project
 👉 **Inventory Management System**  
 A business-focused inventory solution built using MERN stack.
