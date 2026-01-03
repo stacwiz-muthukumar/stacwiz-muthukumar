@@ -28,12 +28,19 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=stacwiz-muthukumar&show_icons=true&theme=tokyonight" />
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=stacwiz-muthukumar&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+  />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stacwiz-muthukumar&theme=tokyonight" />
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=stacwiz-muthukumar&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 ---
