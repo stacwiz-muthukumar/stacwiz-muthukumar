@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Muthukumar
 
-<!--
-**stacwiz-muthukumar/stacwiz-muthukumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN | Salesforce
 
-Here are some ideas to get you started:
+- 🔭 Working on **Inventory Management System**
+- 🌱 Learning **MERN Stack**
+- 💼 Experience in CRM & Salesforce
+- 👨‍💻 Passionate about building real business solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- JavaScript | React | Node.js
+- MongoDB | Express
+- Git | GitHub | Salesforce
+
+### 📫 Connect with me
+- GitHub
+- LinkedIn
